@@ -22,7 +22,7 @@ daftar_karyawan = []
 daftar_karyawan.append(Karyawan("Sarah", 1000000, 22, "Perempuan"))
 daftar_karyawan.append(Karyawan("Budi", 2000000, 25, "Laki - Laki"))
 daftar_karyawan.append(Karyawan("Jono", 1500000, 28, "Laki - Laki"))
-daftar_karyawan.append(Karyawan("Ratna", 4500000, 43, "Perempuan"))
+daftar_karyawan.append(Karyawan("Ratna", 4500000, 42, "Perempuan"))
 
 for karyawan in daftar_karyawan:
     karyawan.tampilkan_profil()
